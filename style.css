@@ -1,0 +1,16 @@
+#form1{
+    background-color: lightgray;
+    width:30%;
+    padding:2%;
+}
+#form1 #UserName{
+    display:block;
+    
+}
+#form1 #password{
+    display:block;
+    margin-top: 10%;
+}
+input{
+    width:500px;
+}
